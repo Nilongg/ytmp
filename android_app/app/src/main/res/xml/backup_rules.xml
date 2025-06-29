@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <!-- Remove the following file paths from backup -->
+    <exclude domain="database" path="SampleDb.db"/>
+    <exclude domain="sharedpref" path="SamplePrefs.xml"/>
+</full-backup-content>
